@@ -1,0 +1,13 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    .col-12 {
+        max-width: 100% !important;
+        flex: 0 0 100% !important;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .col-12 {
+        max-width: 100% !important;
+        flex: 0 0 100% !important;
+    }
+}
